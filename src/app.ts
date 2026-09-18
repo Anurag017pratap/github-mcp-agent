@@ -13,7 +13,7 @@ app.use(express.json());
 
 app.get("/", (req, res) => {
     res.json({
-        message: "GitHub MCP AI Agent is running"
+        message: "GitHub MCP AI Agent is working"
     });
 });
 
