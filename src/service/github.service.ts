@@ -1,4 +1,4 @@
-import { octokit } from "../config/github";
+import { octokit } from "../config/github.js";
 
 export async function getPullRequest(
     owner: string,
