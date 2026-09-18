@@ -306,10 +306,5 @@ GitHub:
 https://github.com/Anurag017pratap
 
 
-### Important
 
-README me jo GitHub URL hai, woh **tumhare actual repo** ka hai:
-
-```text
-https://github.com/Anurag017pratap/github-mcp-agent
 
